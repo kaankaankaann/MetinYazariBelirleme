@@ -1,0 +1,51 @@
+C:\Users\Kaan\source\repos\Metin Yazari Belirleme\Metin Yazari Belirleme\bin\Debug\netcoreapp3.1\Metin Yazari Belirleme.exe
+C:\Users\Kaan\source\repos\Metin Yazari Belirleme\Metin Yazari Belirleme\bin\Debug\netcoreapp3.1\Metin Yazari Belirleme.deps.json
+C:\Users\Kaan\source\repos\Metin Yazari Belirleme\Metin Yazari Belirleme\bin\Debug\netcoreapp3.1\Metin Yazari Belirleme.runtimeconfig.json
+C:\Users\Kaan\source\repos\Metin Yazari Belirleme\Metin Yazari Belirleme\bin\Debug\netcoreapp3.1\Metin Yazari Belirleme.runtimeconfig.dev.json
+C:\Users\Kaan\source\repos\Metin Yazari Belirleme\Metin Yazari Belirleme\bin\Debug\netcoreapp3.1\Metin Yazari Belirleme.dll
+C:\Users\Kaan\source\repos\Metin Yazari Belirleme\Metin Yazari Belirleme\bin\Debug\netcoreapp3.1\Metin Yazari Belirleme.pdb
+C:\Users\Kaan\source\repos\Metin Yazari Belirleme\Metin Yazari Belirleme\obj\Debug\netcoreapp3.1\Metin Yazari Belirleme.csproj.AssemblyReference.cache
+C:\Users\Kaan\source\repos\Metin Yazari Belirleme\Metin Yazari Belirleme\obj\Debug\netcoreapp3.1\Metin_Yazari_Belirleme.Form1.resources
+C:\Users\Kaan\source\repos\Metin Yazari Belirleme\Metin Yazari Belirleme\obj\Debug\netcoreapp3.1\Metin Yazari Belirleme.csproj.GenerateResource.cache
+C:\Users\Kaan\source\repos\Metin Yazari Belirleme\Metin Yazari Belirleme\obj\Debug\netcoreapp3.1\Metin Yazari Belirleme.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kaan\source\repos\Metin Yazari Belirleme\Metin Yazari Belirleme\obj\Debug\netcoreapp3.1\Metin Yazari Belirleme.AssemblyInfoInputs.cache
+C:\Users\Kaan\source\repos\Metin Yazari Belirleme\Metin Yazari Belirleme\obj\Debug\netcoreapp3.1\Metin Yazari Belirleme.AssemblyInfo.cs
+C:\Users\Kaan\source\repos\Metin Yazari Belirleme\Metin Yazari Belirleme\obj\Debug\netcoreapp3.1\Metin Yazari Belirleme.csproj.CoreCompileInputs.cache
+C:\Users\Kaan\source\repos\Metin Yazari Belirleme\Metin Yazari Belirleme\obj\Debug\netcoreapp3.1\Metin Yazari Belirleme.dll
+C:\Users\Kaan\source\repos\Metin Yazari Belirleme\Metin Yazari Belirleme\obj\Debug\netcoreapp3.1\Metin Yazari Belirleme.pdb
+C:\Users\Kaan\source\repos\Metin Yazari Belirleme\Metin Yazari Belirleme\obj\Debug\netcoreapp3.1\Metin Yazari Belirleme.genruntimeconfig.cache
+C:\Users\Kaan\source\repos\Metin Yazari Belirleme\Metin Yazari Belirleme\obj\Debug\netcoreapp3.1\Metin_Yazari_Belirleme.Properties.Resources.resources
+C:\Users\Kaan\OneDrive\Masaüstü\Ders\Eski\Veri Yapıları\Metin Yazari Belirleme\Metin Yazari Belirleme\bin\Debug\netcoreapp3.1\Metin Yazari Belirleme.exe
+C:\Users\Kaan\OneDrive\Masaüstü\Ders\Eski\Veri Yapıları\Metin Yazari Belirleme\Metin Yazari Belirleme\bin\Debug\netcoreapp3.1\Metin Yazari Belirleme.deps.json
+C:\Users\Kaan\OneDrive\Masaüstü\Ders\Eski\Veri Yapıları\Metin Yazari Belirleme\Metin Yazari Belirleme\bin\Debug\netcoreapp3.1\Metin Yazari Belirleme.runtimeconfig.json
+C:\Users\Kaan\OneDrive\Masaüstü\Ders\Eski\Veri Yapıları\Metin Yazari Belirleme\Metin Yazari Belirleme\bin\Debug\netcoreapp3.1\Metin Yazari Belirleme.runtimeconfig.dev.json
+C:\Users\Kaan\OneDrive\Masaüstü\Ders\Eski\Veri Yapıları\Metin Yazari Belirleme\Metin Yazari Belirleme\bin\Debug\netcoreapp3.1\Metin Yazari Belirleme.dll
+C:\Users\Kaan\OneDrive\Masaüstü\Ders\Eski\Veri Yapıları\Metin Yazari Belirleme\Metin Yazari Belirleme\bin\Debug\netcoreapp3.1\Metin Yazari Belirleme.pdb
+C:\Users\Kaan\OneDrive\Masaüstü\Ders\Eski\Veri Yapıları\Metin Yazari Belirleme\Metin Yazari Belirleme\obj\Debug\netcoreapp3.1\Metin Yazari Belirleme.csproj.AssemblyReference.cache
+C:\Users\Kaan\OneDrive\Masaüstü\Ders\Eski\Veri Yapıları\Metin Yazari Belirleme\Metin Yazari Belirleme\obj\Debug\netcoreapp3.1\Metin_Yazari_Belirleme.Form1.resources
+C:\Users\Kaan\OneDrive\Masaüstü\Ders\Eski\Veri Yapıları\Metin Yazari Belirleme\Metin Yazari Belirleme\obj\Debug\netcoreapp3.1\Metin_Yazari_Belirleme.Properties.Resources.resources
+C:\Users\Kaan\OneDrive\Masaüstü\Ders\Eski\Veri Yapıları\Metin Yazari Belirleme\Metin Yazari Belirleme\obj\Debug\netcoreapp3.1\Metin Yazari Belirleme.csproj.GenerateResource.cache
+C:\Users\Kaan\OneDrive\Masaüstü\Ders\Eski\Veri Yapıları\Metin Yazari Belirleme\Metin Yazari Belirleme\obj\Debug\netcoreapp3.1\Metin Yazari Belirleme.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kaan\OneDrive\Masaüstü\Ders\Eski\Veri Yapıları\Metin Yazari Belirleme\Metin Yazari Belirleme\obj\Debug\netcoreapp3.1\Metin Yazari Belirleme.AssemblyInfoInputs.cache
+C:\Users\Kaan\OneDrive\Masaüstü\Ders\Eski\Veri Yapıları\Metin Yazari Belirleme\Metin Yazari Belirleme\obj\Debug\netcoreapp3.1\Metin Yazari Belirleme.AssemblyInfo.cs
+C:\Users\Kaan\OneDrive\Masaüstü\Ders\Eski\Veri Yapıları\Metin Yazari Belirleme\Metin Yazari Belirleme\obj\Debug\netcoreapp3.1\Metin Yazari Belirleme.csproj.CoreCompileInputs.cache
+C:\Users\Kaan\OneDrive\Masaüstü\Ders\Eski\Veri Yapıları\Metin Yazari Belirleme\Metin Yazari Belirleme\obj\Debug\netcoreapp3.1\Metin Yazari Belirleme.dll
+C:\Users\Kaan\OneDrive\Masaüstü\Ders\Eski\Veri Yapıları\Metin Yazari Belirleme\Metin Yazari Belirleme\obj\Debug\netcoreapp3.1\Metin Yazari Belirleme.pdb
+C:\Users\Kaan\OneDrive\Masaüstü\Ders\Eski\Veri Yapıları\Metin Yazari Belirleme\Metin Yazari Belirleme\obj\Debug\netcoreapp3.1\Metin Yazari Belirleme.genruntimeconfig.cache
+C:\Users\Kaan\Desktop\Ders\Eski\Veri Yapıları\Metin Yazari Belirleme\Metin Yazari Belirleme\bin\Debug\netcoreapp3.1\Metin Yazari Belirleme.exe
+C:\Users\Kaan\Desktop\Ders\Eski\Veri Yapıları\Metin Yazari Belirleme\Metin Yazari Belirleme\bin\Debug\netcoreapp3.1\Metin Yazari Belirleme.deps.json
+C:\Users\Kaan\Desktop\Ders\Eski\Veri Yapıları\Metin Yazari Belirleme\Metin Yazari Belirleme\bin\Debug\netcoreapp3.1\Metin Yazari Belirleme.runtimeconfig.json
+C:\Users\Kaan\Desktop\Ders\Eski\Veri Yapıları\Metin Yazari Belirleme\Metin Yazari Belirleme\bin\Debug\netcoreapp3.1\Metin Yazari Belirleme.runtimeconfig.dev.json
+C:\Users\Kaan\Desktop\Ders\Eski\Veri Yapıları\Metin Yazari Belirleme\Metin Yazari Belirleme\bin\Debug\netcoreapp3.1\Metin Yazari Belirleme.dll
+C:\Users\Kaan\Desktop\Ders\Eski\Veri Yapıları\Metin Yazari Belirleme\Metin Yazari Belirleme\bin\Debug\netcoreapp3.1\Metin Yazari Belirleme.pdb
+C:\Users\Kaan\Desktop\Ders\Eski\Veri Yapıları\Metin Yazari Belirleme\Metin Yazari Belirleme\obj\Debug\netcoreapp3.1\Metin Yazari Belirleme.csproj.AssemblyReference.cache
+C:\Users\Kaan\Desktop\Ders\Eski\Veri Yapıları\Metin Yazari Belirleme\Metin Yazari Belirleme\obj\Debug\netcoreapp3.1\Metin_Yazari_Belirleme.Form1.resources
+C:\Users\Kaan\Desktop\Ders\Eski\Veri Yapıları\Metin Yazari Belirleme\Metin Yazari Belirleme\obj\Debug\netcoreapp3.1\Metin_Yazari_Belirleme.Properties.Resources.resources
+C:\Users\Kaan\Desktop\Ders\Eski\Veri Yapıları\Metin Yazari Belirleme\Metin Yazari Belirleme\obj\Debug\netcoreapp3.1\Metin Yazari Belirleme.csproj.GenerateResource.cache
+C:\Users\Kaan\Desktop\Ders\Eski\Veri Yapıları\Metin Yazari Belirleme\Metin Yazari Belirleme\obj\Debug\netcoreapp3.1\Metin Yazari Belirleme.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kaan\Desktop\Ders\Eski\Veri Yapıları\Metin Yazari Belirleme\Metin Yazari Belirleme\obj\Debug\netcoreapp3.1\Metin Yazari Belirleme.AssemblyInfoInputs.cache
+C:\Users\Kaan\Desktop\Ders\Eski\Veri Yapıları\Metin Yazari Belirleme\Metin Yazari Belirleme\obj\Debug\netcoreapp3.1\Metin Yazari Belirleme.AssemblyInfo.cs
+C:\Users\Kaan\Desktop\Ders\Eski\Veri Yapıları\Metin Yazari Belirleme\Metin Yazari Belirleme\obj\Debug\netcoreapp3.1\Metin Yazari Belirleme.csproj.CoreCompileInputs.cache
+C:\Users\Kaan\Desktop\Ders\Eski\Veri Yapıları\Metin Yazari Belirleme\Metin Yazari Belirleme\obj\Debug\netcoreapp3.1\Metin Yazari Belirleme.dll
+C:\Users\Kaan\Desktop\Ders\Eski\Veri Yapıları\Metin Yazari Belirleme\Metin Yazari Belirleme\obj\Debug\netcoreapp3.1\Metin Yazari Belirleme.pdb
+C:\Users\Kaan\Desktop\Ders\Eski\Veri Yapıları\Metin Yazari Belirleme\Metin Yazari Belirleme\obj\Debug\netcoreapp3.1\Metin Yazari Belirleme.genruntimeconfig.cache
